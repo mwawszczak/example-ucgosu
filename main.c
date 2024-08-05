@@ -1,0 +1,2 @@
+plik main.c
+
